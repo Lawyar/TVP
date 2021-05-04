@@ -1,0 +1,10 @@
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\bin\Debug\ifNote-Pod.exe.config
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\bin\Debug\ifNote-Pod.exe
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\bin\Debug\ifNote-Pod.pdb
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\obj\Debug\ifNote-Pod.csprojAssemblyReference.cache
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\obj\Debug\ifNote_Pod.Form1.resources
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\obj\Debug\ifNote_Pod.Properties.Resources.resources
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\obj\Debug\ifNote-Pod.csproj.GenerateResource.cache
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\obj\Debug\ifNote-Pod.csproj.CoreCompileInputs.cache
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\obj\Debug\ifNote-Pod.exe
+C:\Users\tychi\source\repos\ifNote-Pod\ifNote-Pod\obj\Debug\ifNote-Pod.pdb

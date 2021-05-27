@@ -1,0 +1,10 @@
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\bin\Debug\IAmTimer.exe.config
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\bin\Debug\IAmTimer.exe
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\bin\Debug\IAmTimer.pdb
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.csprojAssemblyReference.cache
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.Form1.resources
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.Properties.Resources.resources
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.csproj.GenerateResource.cache
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.csproj.CoreCompileInputs.cache
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.exe
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.pdb

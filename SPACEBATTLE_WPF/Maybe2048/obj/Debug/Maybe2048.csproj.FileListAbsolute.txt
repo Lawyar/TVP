@@ -1,0 +1,15 @@
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\Maybe2048.csprojAssemblyReference.cache
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\MainWindow.g.cs
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\App.g.cs
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\Maybe2048_MarkupCompile.cache
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\Maybe2048_MarkupCompile.lref
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\bin\Debug\Maybe2048.exe.config
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\bin\Debug\Maybe2048.exe
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\bin\Debug\Maybe2048.pdb
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\MainWindow.baml
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\Maybe2048.g.resources
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\Maybe2048.Properties.Resources.resources
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\Maybe2048.csproj.GenerateResource.cache
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\Maybe2048.csproj.CoreCompileInputs.cache
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\Maybe2048.exe
+C:\Users\tychi\source\repos\Maybe2048\Maybe2048\obj\Debug\Maybe2048.pdb

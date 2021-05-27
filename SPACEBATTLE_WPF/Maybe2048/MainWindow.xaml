@@ -1,0 +1,17 @@
+﻿<Window x:Class="Maybe2048.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Maybe2048"
+        mc:Ignorable="d"
+        Title="SPACEKILLER" Height="615" Width="540">
+    <Canvas Name ="MyCansas" Focusable = "True" Background= "Black" KeyDown="OnKeyDown" KeyUp="OnKeyUp">
+
+        <Rectangle Name="player" Height="50" Width="60" Fill="Yellow" Canvas.Left="238" Canvas.Top="492"/>
+
+        <Label Name ="scoretext" Content="Счёт: 0" FontSize="18" FontWeight="Bold" Foreground="white"/>
+        <Label Name ="damagetext" Content="Урон: 0" FontSize="18" FontWeight="Bold" Foreground="white" Canvas.Left="393"/>
+
+    </Canvas>
+</Window>

@@ -28,13 +28,6 @@ namespace IAmTimer
         {
 
             set_years_hours_minutes_seconds();
-
-
-        }
-
-        void set_date(DateTime a, int year, int month, int day, int hour, int minute, int second)
-        {
-
         }
 
         void set_years_hours_minutes_seconds()
@@ -208,7 +201,6 @@ namespace IAmTimer
                 }
                 startdate = new DateTime(int.Parse(startyear.Text), int.Parse(startmonth.Text), int.Parse(startday.Text), int.Parse(starthour.Text),
                                          int.Parse(startminute.Text), int.Parse(startsecond.Text));
-                error("Seconds: " + stopsecond.Text + "Minute: " + stopminute.Text + "Hours: " + stophour.Text);
                 stopdate = new DateTime(int.Parse(stopyear.Text), int.Parse(stopmonth.Text), int.Parse(stopday.Text), int.Parse(stophour.Text),
                                         int.Parse(stopminute.Text), int.Parse(stopsecond.Text));
 
@@ -222,7 +214,6 @@ namespace IAmTimer
                     untiltotal--;
                     
                     untildate = untildate.AddSeconds(-1);
-                    error(untildate.Second.ToString());
                     Thread.Sleep(1000);
                     show_time();
                 }

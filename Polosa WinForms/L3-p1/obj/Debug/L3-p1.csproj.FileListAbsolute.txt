@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\L3-p1\L3-p1\bin\Debug\L3-p1.exe.config
+C:\Users\user\source\repos\L3-p1\L3-p1\bin\Debug\L3-p1.exe
+C:\Users\user\source\repos\L3-p1\L3-p1\bin\Debug\L3-p1.pdb
+C:\Users\user\source\repos\L3-p1\L3-p1\obj\Debug\L3-p1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\L3-p1\L3-p1\obj\Debug\L3_p1.Form1.resources
+C:\Users\user\source\repos\L3-p1\L3-p1\obj\Debug\L3_p1.Properties.Resources.resources
+C:\Users\user\source\repos\L3-p1\L3-p1\obj\Debug\L3-p1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\L3-p1\L3-p1\obj\Debug\L3-p1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\L3-p1\L3-p1\obj\Debug\L3-p1.exe
+C:\Users\user\source\repos\L3-p1\L3-p1\obj\Debug\L3-p1.pdb
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\obj\Debug\L3-p1.csprojAssemblyReference.cache
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\obj\Debug\L3_p1.Form1.resources
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\obj\Debug\L3_p1.Properties.Resources.resources
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\obj\Debug\L3-p1.csproj.GenerateResource.cache
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\obj\Debug\L3-p1.csproj.CoreCompileInputs.cache
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\obj\Debug\L3-p1.exe
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\obj\Debug\L3-p1.pdb
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\bin\Debug\L3-p1.exe.config
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\bin\Debug\L3-p1.exe
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\L3-p1\L3-p1\bin\Debug\L3-p1.pdb

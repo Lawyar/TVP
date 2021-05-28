@@ -1,0 +1,30 @@
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\bin\Debug\Lab3-gr2.exe.config
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\bin\Debug\Lab3-gr2.exe
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\bin\Debug\Lab3-gr2.pdb
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\Lab3-gr2.csprojAssemblyReference.cache
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\MainWindow.g.cs
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\App.g.cs
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\Lab3-gr2_MarkupCompile.cache
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\Lab3-gr2_MarkupCompile.lref
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\MainWindow.baml
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\Lab3-gr2.g.resources
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\Lab3_gr2.Properties.Resources.resources
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\Lab3-gr2.csproj.GenerateResource.cache
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\Lab3-gr2.csproj.CoreCompileInputs.cache
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\Lab3-gr2.exe
+C:\Users\Николай Борисов\source\repos\Lab3-gr2\Lab3-gr2\obj\Debug\Lab3-gr2.pdb
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\bin\Debug\Lab3-gr2.exe.config
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\bin\Debug\Lab3-gr2.exe
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\bin\Debug\Lab3-gr2.pdb
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\Lab3-gr2.csprojAssemblyReference.cache
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\MainWindow.g.cs
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\App.g.cs
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\Lab3-gr2_MarkupCompile.cache
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\Lab3-gr2_MarkupCompile.lref
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\MainWindow.baml
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\Lab3-gr2.g.resources
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\Lab3_gr2.Properties.Resources.resources
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\Lab3-gr2.csproj.GenerateResource.cache
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\Lab3-gr2.csproj.CoreCompileInputs.cache
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\Lab3-gr2.exe
+C:\Users\tychi\OneDrive\Рабочий стол\Новая папка (2)\Polosa WPF\Lab3-gr2\obj\Debug\Lab3-gr2.pdb
